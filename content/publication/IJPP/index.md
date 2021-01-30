@@ -23,10 +23,11 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *International Journal of Applied Positive Psychology, 4*, 113–134*
 
+tags: ["Featured"]
 
 abstract: Positive psychology interventions (PPIs) in the workplace aim to improve important outcomes, such as increased work engagement, job performance, and reduced job stress. Numerous empirical studies have been conducted in recent years to verify the effects of these interventions. This paper provides a systematic review and the first meta-analysis of PPIs at work, highlighting intervention studies explicitly aligned within the theoretical traditions of positive work and organizations (PWO). We draw from streams of PWO, including positive organizational scholarship (POS), positive organizational behavior (POB) and positive organizational psychology literature (POP) to evaluate PPIs at work. The meta-analytic findings from 22 studies showed that the five workplace positive psychology interventions had a small positive effect on improving desirable work outcomes (g = .25), and a small to moderate effect on reducing undesirable work outcomes (g = −.34). Thus, this paper provides valuable insight on the effectiveness of PPIs at work and future directions for scholars and practitioners.
 
-tags: []
+
 
 # Display this page in the Featured widget?
 featured: true

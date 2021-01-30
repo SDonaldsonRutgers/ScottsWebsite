@@ -93,7 +93,7 @@ phone = "909-702-4244"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "240 W Mariposa #B", city = "San Clemente", region = "CA", postcode = "92672",country = "United States", country_code = "US"}
+#address = {street = "240 W Mariposa #B", city = "San Clemente", region = "CA", postcode = "92672",country = "United States", country_code = "US"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

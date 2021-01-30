@@ -21,7 +21,8 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: Toward a Positive Psychology of Relationships - New Directions in Theory and Research
-tags: []
+
+tags: ["Referred"]
 
 abstract: Be it popular culture, age-old wisdom, or rigorous science-most concede that positive relationships are fundamental to what makes life worthwhile. Positive psychology, the scientific pursuit of what makes life worth living, would therefore be a natural home for the systematic study of positive relationships. So how has the field of positive psychology contributed to the science of positive relationships? What is the role of relationships in positive psychology? This chapter sets out to explore these questions. 
 

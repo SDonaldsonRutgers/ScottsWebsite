@@ -20,7 +20,7 @@ publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: A Dissertation submitted to the Faculty of Claremont Graduate University
-tags: []
+tags: ["Referred"]
 
 abstract: A Positive Work and Organizations (PWO) approach uses scientific methods to improve the understanding of individual, team, and organizational well-being and performance (Warren, et al., 2017). One area of inquiry within the PWO approach involves designing and evaluating positive psychology interventions (PPIs) at work. The current research used a multi-phase exploratory sequential mixed method design to evaluate the effectiveness of PPIs at work using process evaluation, and tested a framework of employee positive functioning expanding on Seligman’s PERMA Theory of Well-Being (Seligman, 2011).
   Four related studies were carried out examining the fidelity, quality of implementation, and effectiveness of 22 PPIs at work, and testing the validity of a new Employee Positive Functioning (EPF) scale with more than 1,000 full-time employees. The ability of the EPF Scale to predict important work outcomes was also examined.
