@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic to Practitioner | Scott I. Donaldson, PhD</title>
+    <link>https://scottdonaldsonphd.netlify.app/tag/academic-to-practitioner/</link>
+      <atom:link href="https://scottdonaldsonphd.netlify.app/tag/academic-to-practitioner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic to Practitioner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Academic to Practitioner</title>
+      <link>https://scottdonaldsonphd.netlify.app/tag/academic-to-practitioner/</link>
+    </image>
+    
+    <item>
+      <title>IPPA Work and Organizations</title>
+      <link>https://scottdonaldsonphd.netlify.app/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/project/external-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Bridging the Gap between Academia and Practice&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

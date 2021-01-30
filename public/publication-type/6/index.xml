@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Scott I. Donaldson, PhD</title>
+    <link>https://scottdonaldsonphd.netlify.app/publication-type/6/</link>
+      <atom:link href="https://scottdonaldsonphd.netlify.app/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>6</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>The Effectiveness of Positive Psychology Interventions in the Workplace: A Theory-Driven Evaluation Approach</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication/td.ppis/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/publication/td.ppis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other People Matter: The Power of Positive Relationships</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication/otherppl/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/publication/otherppl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Scientific Progress in Positive Psychology</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication/evalsci/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/publication/evalsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Positive Psychology to Advance Relationship Science</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication/relationship/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/publication/relationship/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

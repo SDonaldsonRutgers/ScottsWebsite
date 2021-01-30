@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Scott I. Donaldson, PhD</title>
+    <link>https://scottdonaldsonphd.netlify.app/publication-type/3/</link>
+      <atom:link href="https://scottdonaldsonphd.netlify.app/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title> A Brief Measure of Problematic Smartphone Use Among Youth: Psychometric Assessment Using Item Response Theory</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication/smartphone/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/publication/smartphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing the Elephant in the Room: Exploring the Impostor Phenomenon in Evaluation</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication/imposter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/publication/imposter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Self-Report Bias in Workplace Research: Insights from Multitrait-Multimethod Analyses with Positive Work and Organizations Constructs</title>
+      <link>https://scottdonaldsonphd.netlify.app/publication/mtmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scottdonaldsonphd.netlify.app/publication/mtmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
