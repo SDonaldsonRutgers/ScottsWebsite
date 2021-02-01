@@ -47,7 +47,7 @@ social:
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is a Postdoctoral Scholar in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, Moores Cancer Center. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design and evaluation of behavioral health interventions at work.
+SCOTT I. DONALDSON is a Postdoctoral Scholar in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, Moores Cancer Center. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design, measurement, and evaluation of well-being interventions.
 
 
 
