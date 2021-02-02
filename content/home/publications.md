@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Referred Publications
+title: Recent Publications
 subtitle: ''
 
 content:
@@ -43,9 +43,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 1
-
-
 ---
 
-
-
+# [See Scott's Google Scholar](https://scholar.google.com/citations?user=ZkWaykcAAAAJ&hl=en) {{< icon name="google-scholar" pack="ai" >}}
