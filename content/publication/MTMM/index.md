@@ -18,7 +18,7 @@ publishDate: "2021T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Business and Psychology
+publication: Journal of Applied Psychology (under review)
 
 tags: ["Forthcoming"] 
 
