@@ -39,6 +39,6 @@ design:
   
 ---
 
-{{% callout note %}} [See All Publications](./publication/). {{% /callout %}}
+{{% callout note %}} [Filter Publications](./publication/). {{% /callout %}}
 
 # [Scott's Google Scholar](https://scholar.google.com/citations?user=ZkWaykcAAAAJ&hl=en) {{< icon name="google-scholar" pack="ai" >}}
