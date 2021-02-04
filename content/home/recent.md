@@ -18,7 +18,7 @@ content:
   # Choose how much pages you would like to display (0 = all pages)
   count: 4
   # Choose how many pages you would like to offset by
-  offset: 0
+  offset: 1
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
@@ -39,6 +39,6 @@ design:
   
 ---
 
-{{% callout note %}} [Filter Publications](./publication/). {{% /callout %}}
+{{% callout note %}} [See All Publications](./publication/). {{% /callout %}}
 
 # [Scott's Google Scholar](https://scholar.google.com/citations?user=ZkWaykcAAAAJ&hl=en) {{< icon name="google-scholar" pack="ai" >}}
