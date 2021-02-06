@@ -20,7 +20,7 @@ publishDate: "2021-01-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Journal of Applied Positive Psychology, 4*, 113–134*
+publication: Journal of Well-Being Assessment, 4(2), 181-215
 
 tags: ["Featured"]
 
@@ -33,14 +33,4 @@ featured: true
 url_code: 'https://github.com/SDonaldsonUCSD/R-Code-Repository/tree/main/Journal%20of%20Well-Being'
 
 url_doi: 'https://doi.org/10.1007/s41543-020-00033-1'
-
-
 ---
-
-
-
-
-
-
-
-
