@@ -1,10 +1,10 @@
 ---
-title: "Scott I. Donaldson"
+title: "Dr. Scott I. Donaldson"
 education:
   courses:
   - course: Postdoctoral Scholar in Evaluation, Statistics, and Measurement
     institution: University of California, San Diego
-    year: 2019-Present
+    year: 2021
     
   - course: PhD in Evaluation and Applied Research Methods
     institution: Claremont Graduate University
@@ -25,11 +25,12 @@ interests:
 - Evaluation Science
 - Research Design and Methodology
 - Statistics and Measurement
-- Positive Work and Organizations
+- Health Promotion
 organizations:
-- name: University of California, San Diego
-  url: https://health.ucsd.edu/specialties/cancer/Pages/default.aspx
-role: Postdoctoral Scholar in Evaluation, Statistics, and Measurement
+- name: University of Southern California
+  url: https://preventivemedicine.usc.edu/divisions/health-behavior-research/
+
+role: Senior Research Scientist
 
 social:
 - icon: envelope
@@ -47,7 +48,7 @@ social:
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is a Postdoctoral Scholar in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, Moores Cancer Center. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design, measurement, and evaluation of individual, workplace, and community-based well-being interventions.
+SCOTT I. DONALDSON is a Senior Research Scientist at the University of California Keck Schools of Medicine, Department of Preventative Medicine. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, Moores Cancer Center. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design, measurement, and evaluation of health promotion interventions.
 
 
 

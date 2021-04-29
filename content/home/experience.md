@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Research Scientist
+    company: University of Southern California, Keck School of Medicine
+    company_url: 'https://preventivemedicine.usc.edu/divisions/health-behavior-research/'
+    location: California
+    date_start: '2021-05-03'
+    date_end: ''
+    description: '![](/img/USC.png)'
+    
   - title: Postdoctoral Scholar in Evaluation, Statistics, and Measurement
     company: University of California San Diego, Moores Cancer Center
     company_url: 'https://health.ucsd.edu/specialties/cancer/Pages/default.aspx'
