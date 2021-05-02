@@ -46,7 +46,6 @@ experience:
     date_end: '2021-05-02'
     description: '![](/img/usd.png)'
 
-        
   - title: Adjunct Professor (Statistics & Research Methods)
     company: Chapman University Crean College of Health and Behavioral Sciences
     company_url: 'https://www.chapman.edu/crean/academic-programs/undergraduate-programs/ba-psychology/index.aspx'

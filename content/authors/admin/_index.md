@@ -48,7 +48,7 @@ social:
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is a Senior Researcher at the University of California Keck Schools of Medicine, Department of Preventative Medicine. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, Moores Cancer Center. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received an MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design, measurement, and evaluation of health promotion interventions.
+SCOTT I. DONALDSON is a Senior Researcher at the University of Southern California Keck School of Medicine, Department of Preventive Medicine. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, Moores Cancer Center. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received an MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design, measurement, and evaluation of health promotion interventions.
 
 
 
