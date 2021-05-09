@@ -24,14 +24,14 @@ highlight_name: yes
 interests:
 - Evaluation Science
 - Statistics
-- Psychometrics
+- Measurement
 - Positive Interventions
-- Well-Being
+- Preventive Medicine
 organizations:
 - name: University of Southern California
   url: https://preventivemedicine.usc.edu/divisions/health-behavior-research/
 
-role: Senior Researcher & Statistician
+role: Senior Research Scientist
 
 social:
 - icon: envelope
@@ -49,7 +49,7 @@ social:
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is a Senior Researcher & Statistician in the Department of Preventive Medicine at the University of Southern California Keck School of Medicine. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received an MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design, measurement, and evaluation of health and well-being interventions. He currently works in the USC Social Media Analytics Lab on the Tobacco Industry Monitoring Evaluation (TIME) project.
+SCOTT I. DONALDSON is a Senior Research Scientist in the Department of Preventive Medicine at the University of Southern California Keck School of Medicine. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine. Scott received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received an MS in Organizational Psychology from the University of Southern California, and his BA in Psychology from the University of California, Los Angeles. His research focuses on the design, measurement, and evaluation of health and well-being interventions. He currently works in the USC Social Media Analytics Lab on the Tobacco Industry Monitoring Evaluation (TIME) project.
 
 
 
