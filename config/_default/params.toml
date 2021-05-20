@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sidonaldson@health.ucsd.edu"
+email = "scottdon@usc.edu"
 phone = "909-702-4244"
 
 # Address
