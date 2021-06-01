@@ -20,7 +20,7 @@ publishDate: "2021-02T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: American Journal of Evaluation
+publication: Canadian Journal of Program Evaluation
 
 tags: ["Forthcoming"]
 

@@ -38,6 +38,8 @@ item:
 > {{% staticref "media/MethodsEval.pdf" "newtab" %}} Fall 2018 - Chapman University {{% /staticref %}}
 >
 > {{% staticref "media/Methods.Fall19.pdf" "newtab" %}} Fall 2019 - Chapman University {{% /staticref %}}
+>
+> {{% staticref "media/Methods.Spring21.pdf" "newtab" %}} Spring 2021 - University of San Diego {{% /staticref %}}
 
 **Statistics -** *Teaching Evaluations*
 

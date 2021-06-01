@@ -17,19 +17,19 @@ publishDate: "2021-01-01T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Computers in Human Behavior Reports
 
-tags: ["Forthcoming"] 
+tags: [""] 
 
 
 abstract: The purpose of this study was to use item response theory to assess a brief measure of problematic smartphone use among youth, using the 2017-2018 California Student Tobacco Survey (CSTS) collected from 119,981 students who own a smartphone across 256 high schools in California. 
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 
 url_code: 'https://github.com/SDonaldsonUCSD/R-Code-Repository/blob/main/IRT/BriefScreener.FinalCode_SCOTT.Rmd'
