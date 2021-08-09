@@ -29,7 +29,7 @@ abstract: The purpose of this study was to use item response theory to assess a 
 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 
 url_code: 'https://github.com/SDonaldsonUCSD/R-Code-Repository/blob/main/IRT/BriefScreener.FinalCode_SCOTT.Rmd'

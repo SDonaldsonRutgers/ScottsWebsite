@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Scott I. Donaldson, PhD</title>
-    <link>https://scottdonaldsonphd.netlify.app/project/</link>
-      <atom:link href="https://scottdonaldsonphd.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.scottdonaldsonphd.com/project/</link>
+      <atom:link href="www.scottdonaldsonphd.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://scottdonaldsonphd.netlify.app/project/</link>
+      <link>www.scottdonaldsonphd.com/project/</link>
     </image>
     
     <item>
       <title>IPPA Work and Organizations</title>
-      <link>https://scottdonaldsonphd.netlify.app/project/external-project/</link>
+      <link>www.scottdonaldsonphd.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/project/external-project/</guid>
+      <guid>www.scottdonaldsonphd.com/project/external-project/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bridging the Gap between Academia and Practice&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Tobacco-Use Prevention Education</title>
-      <link>https://scottdonaldsonphd.netlify.app/project/internal-project/</link>
+      <title>Evaluation of the Tobacco-Use Prevention Education Program</title>
+      <link>www.scottdonaldsonphd.com/project/internal-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/project/internal-project/</guid>
+      <guid>www.scottdonaldsonphd.com/project/internal-project/</guid>
       <description>&lt;p&gt;As a Post-Doctoral Scholar at the University of California, San Diego School of Medicine, I advanced my transdisciplinary research interests in evaluation, statistics, and measurement by designing a grant electronic monitoring and evaluation software system for a statewide behavioral health intervention in California. Under the supervision of world-renowned Chinese scientist Shu-Hong Zhu, I conducted a comprehensive theory-driven evaluation of an evidence-based education program with $60 million in allocated funds from the California Department of Education. Our real-time monitoring, evaluation, and technical assistance approach integrated continuous quality improvement to help design, measure, and evaluate the impact of a multi-tiered socioecological prevention program.&lt;/p&gt;
 </description>
     </item>

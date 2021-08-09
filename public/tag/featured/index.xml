@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Featured | Scott I. Donaldson, PhD</title>
-    <link>https://scottdonaldsonphd.netlify.app/tag/featured/</link>
-      <atom:link href="https://scottdonaldsonphd.netlify.app/tag/featured/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.scottdonaldsonphd.com/tag/featured/</link>
+      <atom:link href="www.scottdonaldsonphd.com/tag/featured/index.xml" rel="self" type="application/rss+xml" />
     <description>Featured</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Featured</title>
-      <link>https://scottdonaldsonphd.netlify.app/tag/featured/</link>
+      <link>www.scottdonaldsonphd.com/tag/featured/</link>
     </image>
     
     <item>
       <title>The Positive Functioning at Work Scale: Psychometric Assessment, Validation, and Measurement Invariance</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/jwa/</link>
+      <link>www.scottdonaldsonphd.com/publication/jwa/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/jwa/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/jwa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Positive Psychology Interventions at Work: A Systematic Review and Meta-Analysis</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/ijpp/</link>
+      <link>www.scottdonaldsonphd.com/publication/ijpp/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/ijpp/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/ijpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinvigorating Research on Gender in the Workplace Using a Positive Work and Organizations Perspective</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/ijmr/</link>
+      <link>www.scottdonaldsonphd.com/publication/ijmr/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/ijmr/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/ijmr/</guid>
       <description></description>
     </item>
     

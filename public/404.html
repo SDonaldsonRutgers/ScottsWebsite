@@ -27,17 +27,17 @@
   
   
 
-  <meta name="author" content="Scott I. Donaldson">
+  <meta name="author" content="Dr. Scott I. Donaldson">
 
   
   
   
     
   
-  <meta name="description" content="Postdoctoral Scholar in Evaluation, Statistics, and Measurement">
+  <meta name="description" content="Senior Research Scientist">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://scottdonaldsonphd.netlify.app/404.html">
+  <link rel="alternate" hreflang="en-us" href="www.scottdonaldsonphd.com/404.html">
 
   
 
@@ -241,13 +241,51 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.12f1d8b202e358020354902218c3db1b.css">
+  <link rel="stylesheet" href="/www.scottdonaldsonphd.com/css/wowchemy.12f1d8b202e358020354902218c3db1b.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-66J1CSNLDK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-66J1CSNLDK', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -258,11 +296,11 @@
 
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/www.scottdonaldsonphd.com/index.webmanifest">
+  <link rel="icon" type="image/png" href="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://scottdonaldsonphd.netlify.app/404.html">
+  <link rel="canonical" href="www.scottdonaldsonphd.com/404.html">
 
   
   
@@ -278,10 +316,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Scott I. Donaldson, PhD">
-  <meta property="og:url" content="https://scottdonaldsonphd.netlify.app/404.html">
+  <meta property="og:url" content="www.scottdonaldsonphd.com/404.html">
   <meta property="og:title" content="404 Page not found | Scott I. Donaldson, PhD">
-  <meta property="og:description" content="Postdoctoral Scholar in Evaluation, Statistics, and Measurement"><meta property="og:image" content="https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Senior Research Scientist"><meta property="og:image" content="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -315,7 +353,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.25bb65fc185bceea61395d5b0560127a.js"></script>
+  <script src="/www.scottdonaldsonphd.com/js/wowchemy-init.min.25bb65fc185bceea61395d5b0560127a.js"></script>
 
   
 
@@ -373,7 +411,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Scott I. Donaldson, PhD</a>
+      <a class="navbar-brand" href="/www.scottdonaldsonphd.com/">Scott I. Donaldson, PhD</a>
     </div>
     
 
@@ -386,7 +424,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Scott I. Donaldson, PhD</a>
+      <a class="navbar-brand" href="/www.scottdonaldsonphd.com/">Scott I. Donaldson, PhD</a>
     </div>
     
 
@@ -429,7 +467,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#featured"><span>Publications</span></a>
         </li>
 
         
@@ -466,7 +504,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#experience"><span>Experience</span></a>
         </li>
 
         
@@ -503,7 +541,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#research"><span>Research & Projects</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#research"><span>Research & Projects</span></a>
         </li>
 
         
@@ -540,7 +578,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#accomplishments"><span>Teaching</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#accomplishments"><span>Teaching</span></a>
         </li>
 
         
@@ -577,7 +615,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -607,7 +645,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/media/resume.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/media/resume.pdf"><span>CV</span></a>
         </li>
 
         
@@ -668,25 +706,25 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/talk/example-talk/">Example Talk</a></li>
+      <li><a href="www.scottdonaldsonphd.com/talk/example-talk/">Example Talk</a></li>
     
-      <li><a href="/post/research-program/">Research Program</a></li>
+      <li><a href="www.scottdonaldsonphd.com/post/dissertationaward/">Scott wins the IPPA 7th World Congress Dissertation Honorable Mention Award</a></li>
     
-      <li><a href="/publication/jwa/">The Positive Functioning at Work Scale: Psychometric Assessment, Validation, and Measurement Invariance</a></li>
+      <li><a href="www.scottdonaldsonphd.com/post/ippa7/">Podium Presentation at the IPPA 7th World Congress</a></li>
     
-      <li><a href="/publication/irt/">A Brief Measure of Problematic Smartphone Use Among Youth: Psychometric Assessment Using Item Response Theory</a></li>
+      <li><a href="www.scottdonaldsonphd.com/post/wpa/">Measuring Positive Psychology Constructs Beyond Self-Reports</a></li>
     
-      <li><a href="/publication/jpp/">Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</a></li>
+      <li><a href="www.scottdonaldsonphd.com/post/getting-started/">Which Positive Psychology Interventions Work Best?</a></li>
     
-      <li><a href="/publication/diss/"> Evaluating Employee Positive Functioning and Performance: A Positive Work and Organizations Approach</a></li>
+      <li><a href="www.scottdonaldsonphd.com/publication/popi/">Designing Positive Organizational Psychology Interventions</a></li>
     
-      <li><a href="/publication/ijpp/">Evaluating Positive Psychology Interventions at Work: A Systematic Review and Meta-Analysis</a></li>
+      <li><a href="www.scottdonaldsonphd.com/publication/popi2/">Evaluating Positive Organizational Psychology Interventions</a></li>
     
-      <li><a href="/publication/td.ppis/">The Effectiveness of Positive Psychology Interventions in the Workplace: A Theory-Driven Evaluation Approach</a></li>
+      <li><a href="www.scottdonaldsonphd.com/publication/jwa/">The Positive Functioning at Work Scale: Psychometric Assessment, Validation, and Measurement Invariance</a></li>
     
-      <li><a href="/publication/ijmr/">Reinvigorating Research on Gender in the Workplace Using a Positive Work and Organizations Perspective</a></li>
+      <li><a href="www.scottdonaldsonphd.com/publication/irt/">A Brief Measure of Problematic Smartphone Use Among Youth: Psychometric Assessment Using Item Response Theory</a></li>
     
-      <li><a href="/slides/example/">Slides</a></li>
+      <li><a href="www.scottdonaldsonphd.com/publication/jpp/">Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</a></li>
     
   </ul>
   
@@ -802,7 +840,7 @@
     
     
     <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const search_config = {"indexURI":"/www.scottdonaldsonphd.com/index.json","minLength":1,"threshold":0.3};
       const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
@@ -865,7 +903,7 @@
       
     
     
-    <script src="/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
+    <script src="/www.scottdonaldsonphd.com/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
 
     
   <script async defer src="https://buttons.github.io/buttons.js"></script>

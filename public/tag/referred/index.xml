@@ -2,77 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Referred | Scott I. Donaldson, PhD</title>
-    <link>https://scottdonaldsonphd.netlify.app/tag/referred/</link>
-      <atom:link href="https://scottdonaldsonphd.netlify.app/tag/referred/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.scottdonaldsonphd.com/tag/referred/</link>
+      <atom:link href="www.scottdonaldsonphd.com/tag/referred/index.xml" rel="self" type="application/rss+xml" />
     <description>Referred</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Referred</title>
-      <link>https://scottdonaldsonphd.netlify.app/tag/referred/</link>
+      <link>www.scottdonaldsonphd.com/tag/referred/</link>
     </image>
     
     <item>
-      <title>Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/jpp/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/jpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Evaluating Employee Positive Functioning and Performance: A Positive Work and Organizations Approach</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/diss/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/diss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effectiveness of Positive Psychology Interventions in the Workplace: A Theory-Driven Evaluation Approach</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/td.ppis/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/td.ppis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Where Do We Stand? Recent AEA member Views on Professionalization</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/stand/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/stand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other People Matter: The Power of Positive Relationships</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/otherppl/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/otherppl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evaluating Scientific Progress in Positive Psychology</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/evalsci/</link>
+      <link>www.scottdonaldsonphd.com/publication/evalsci/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/evalsci/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/evalsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Professional Psychology Associations in the GCC: Positive Institutions Whose Time Has Come</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/middleeast/</link>
+      <link>www.scottdonaldsonphd.com/publication/middleeast/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/middleeast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Applying Positive Psychology to Advance Relationship Science</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/relationship/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/relationship/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/middleeast/</guid>
       <description></description>
     </item>
     

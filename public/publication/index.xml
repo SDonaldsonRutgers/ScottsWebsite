@@ -2,125 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Scott I. Donaldson, PhD</title>
-    <link>https://scottdonaldsonphd.netlify.app/publication/</link>
-      <atom:link href="https://scottdonaldsonphd.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.scottdonaldsonphd.com/publication/</link>
+      <atom:link href="www.scottdonaldsonphd.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright>
     <image>
-      <url>https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/</link>
+      <link>www.scottdonaldsonphd.com/publication/</link>
     </image>
     
     <item>
+      <title>Designing Positive Organizational Psychology Interventions</title>
+      <link>www.scottdonaldsonphd.com/publication/popi/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>www.scottdonaldsonphd.com/publication/popi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positive Organizational Psychology Interventions</title>
+      <link>www.scottdonaldsonphd.com/publication/popi2/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>www.scottdonaldsonphd.com/publication/popi2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Positive Functioning at Work Scale: Psychometric Assessment, Validation, and Measurement Invariance</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/jwa/</link>
+      <link>www.scottdonaldsonphd.com/publication/jwa/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/jwa/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/jwa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Brief Measure of Problematic Smartphone Use Among Youth: Psychometric Assessment Using Item Response Theory</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/irt/</link>
+      <link>www.scottdonaldsonphd.com/publication/irt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/irt/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/irt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/jpp/</link>
+      <link>www.scottdonaldsonphd.com/publication/jpp/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/jpp/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/jpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Evaluating Employee Positive Functioning and Performance: A Positive Work and Organizations Approach</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/diss/</link>
+      <link>www.scottdonaldsonphd.com/publication/diss/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/diss/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/diss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Positive Psychology Interventions at Work: A Systematic Review and Meta-Analysis</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/ijpp/</link>
+      <link>www.scottdonaldsonphd.com/publication/ijpp/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/ijpp/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/ijpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effectiveness of Positive Psychology Interventions in the Workplace: A Theory-Driven Evaluation Approach</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/td.ppis/</link>
+      <link>www.scottdonaldsonphd.com/publication/td.ppis/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/td.ppis/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/td.ppis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinvigorating Research on Gender in the Workplace Using a Positive Work and Organizations Perspective</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/ijmr/</link>
+      <link>www.scottdonaldsonphd.com/publication/ijmr/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/ijmr/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/ijmr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where Do We Stand? Recent AEA member Views on Professionalization</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/stand/</link>
+      <link>www.scottdonaldsonphd.com/publication/stand/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/stand/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/stand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other People Matter: The Power of Positive Relationships</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/otherppl/</link>
+      <link>www.scottdonaldsonphd.com/publication/otherppl/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/otherppl/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/otherppl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Scientific Progress in Positive Psychology</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/evalsci/</link>
+      <link>www.scottdonaldsonphd.com/publication/evalsci/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/evalsci/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/evalsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Professional Psychology Associations in the GCC: Positive Institutions Whose Time Has Come</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/middleeast/</link>
+      <link>www.scottdonaldsonphd.com/publication/middleeast/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/middleeast/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/middleeast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Positive Psychology to Advance Relationship Science</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/relationship/</link>
+      <link>www.scottdonaldsonphd.com/publication/relationship/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/relationship/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/relationship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Addressing the Elephant in the Room: Exploring the Impostor Phenomenon in Evaluation</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/imposter/</link>
+      <link>www.scottdonaldsonphd.com/publication/imposter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/imposter/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/imposter/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding Self-Report Bias in Workplace Research: Insights from Multitrait-Multimethod Analyses with Positive Work and Organizations Constructs</title>
-      <link>https://scottdonaldsonphd.netlify.app/publication/mtmm/</link>
+      <title>Examining PERMA&#43;4 and Work Role Performance beyond Self-Report Bias: Insights from Multitrait-Multimethod Analyses</title>
+      <link>www.scottdonaldsonphd.com/publication/mtmm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scottdonaldsonphd.netlify.app/publication/mtmm/</guid>
+      <guid>www.scottdonaldsonphd.com/publication/mtmm/</guid>
       <description></description>
     </item>
     

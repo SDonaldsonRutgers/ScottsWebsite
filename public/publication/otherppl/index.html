@@ -27,7 +27,7 @@
   
   
 
-  <meta name="author" content="Scott I. Donaldson">
+  <meta name="author" content="Dr. Scott I. Donaldson">
 
   
   
@@ -37,7 +37,7 @@
   <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://scottdonaldsonphd.netlify.app/publication/otherppl/">
+  <link rel="alternate" hreflang="en-us" href="www.scottdonaldsonphd.com/publication/otherppl/">
 
   
 
@@ -241,13 +241,51 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.12f1d8b202e358020354902218c3db1b.css">
+  <link rel="stylesheet" href="/www.scottdonaldsonphd.com/css/wowchemy.12f1d8b202e358020354902218c3db1b.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-66J1CSNLDK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-66J1CSNLDK', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -258,11 +296,11 @@
 
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/www.scottdonaldsonphd.com/index.webmanifest">
+  <link rel="icon" type="image/png" href="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://scottdonaldsonphd.netlify.app/publication/otherppl/">
+  <link rel="canonical" href="www.scottdonaldsonphd.com/publication/otherppl/">
 
   
   
@@ -277,15 +315,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Scott I. Donaldson, PhD">
-  <meta property="og:url" content="https://scottdonaldsonphd.netlify.app/publication/otherppl/">
+  <meta property="og:url" content="www.scottdonaldsonphd.com/publication/otherppl/">
   <meta property="og:title" content="Other People Matter: The Power of Positive Relationships | Scott I. Donaldson, PhD">
-  <meta property="og:description" content=""><meta property="og:image" content="https://scottdonaldsonphd.netlify.app/publication/otherppl/featured.jpg">
-  <meta property="twitter:image" content="https://scottdonaldsonphd.netlify.app/publication/otherppl/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content=""><meta property="og:image" content="/www.scottdonaldsonphd.com/publication/otherppl/featured.jpg">
+  <meta property="twitter:image" content="/www.scottdonaldsonphd.com/publication/otherppl/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-12-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-01-30T15:42:27-08:00">
+    <meta property="article:modified_time" content="2021-02-03T11:08:46-08:00">
   
 
   
@@ -307,16 +345,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://scottdonaldsonphd.netlify.app/publication/otherppl/"
+    "@id": "www.scottdonaldsonphd.com/publication/otherppl/"
   },
   "headline": "Other People Matter: The Power of Positive Relationships",
   
   "image": [
-    "https://scottdonaldsonphd.netlify.app/publication/otherppl/featured.jpg"
+    "/www.scottdonaldsonphd.com/publication/otherppl/featured.jpg"
   ],
   
   "datePublished": "2017-12-01T00:00:00Z",
-  "dateModified": "2021-01-30T15:42:27-08:00",
+  "dateModified": "2021-02-03T11:08:46-08:00",
   
   "author": {
     "@type": "Person",
@@ -328,7 +366,7 @@
     "name": "University of California, San Diego",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
+      "url": "/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": ""
@@ -364,7 +402,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.25bb65fc185bceea61395d5b0560127a.js"></script>
+  <script src="/www.scottdonaldsonphd.com/js/wowchemy-init.min.25bb65fc185bceea61395d5b0560127a.js"></script>
 
   
 
@@ -422,7 +460,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Scott I. Donaldson, PhD</a>
+      <a class="navbar-brand" href="/www.scottdonaldsonphd.com/">Scott I. Donaldson, PhD</a>
     </div>
     
 
@@ -435,7 +473,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Scott I. Donaldson, PhD</a>
+      <a class="navbar-brand" href="/www.scottdonaldsonphd.com/">Scott I. Donaldson, PhD</a>
     </div>
     
 
@@ -478,7 +516,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#featured"><span>Publications</span></a>
         </li>
 
         
@@ -515,7 +553,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#experience"><span>Experience</span></a>
         </li>
 
         
@@ -552,7 +590,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#research"><span>Research & Projects</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#research"><span>Research & Projects</span></a>
         </li>
 
         
@@ -589,7 +627,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#accomplishments"><span>Teaching</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#accomplishments"><span>Teaching</span></a>
         </li>
 
         
@@ -626,7 +664,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -656,7 +694,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/media/resume.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/media/resume.pdf"><span>CV</span></a>
         </li>
 
         
@@ -751,7 +789,7 @@
 
   <span >
       Stewart I. Donaldson</span>, <span class="author-highlighted">
-      Scott I. Donaldson</span>
+      Dr. Scott I. Donaldson</span>
   </div>
   
   
@@ -812,7 +850,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/otherppl/OtherPPL.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/www.scottdonaldsonphd.com/publication/otherppl/OtherPPL.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -840,7 +878,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 201px; max-height: 305px;">
   <div style="position: relative">
-    <img src="/publication/otherppl/featured.jpg" alt="" class="featured-image">
+    <img src="/www.scottdonaldsonphd.com/publication/otherppl/featured.jpg" alt="" class="featured-image">
     
   </div>
 </div>
@@ -859,7 +897,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#6">
+            <a href="www.scottdonaldsonphd.com/publication/#6">
               Book section
             </a>
           </div>
@@ -895,12 +933,6 @@
 
 
 
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/referred/">Referred</a>
-  
-</div>
-
 
 
 <div class="share-box" aria-hidden="true">
@@ -914,7 +946,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://scottdonaldsonphd.netlify.app/publication/otherppl/&amp;text=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=www.scottdonaldsonphd.com/publication/otherppl/&amp;text=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -927,7 +959,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://scottdonaldsonphd.netlify.app/publication/otherppl/&amp;t=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=www.scottdonaldsonphd.com/publication/otherppl/&amp;t=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -940,7 +972,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships&amp;body=https://scottdonaldsonphd.netlify.app/publication/otherppl/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships&amp;body=www.scottdonaldsonphd.com/publication/otherppl/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -953,7 +985,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://scottdonaldsonphd.netlify.app/publication/otherppl/&amp;title=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=www.scottdonaldsonphd.com/publication/otherppl/&amp;title=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -966,7 +998,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships%20https://scottdonaldsonphd.netlify.app/publication/otherppl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships%20www.scottdonaldsonphd.com/publication/otherppl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -979,7 +1011,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://scottdonaldsonphd.netlify.app/publication/otherppl/&amp;title=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=www.scottdonaldsonphd.com/publication/otherppl/&amp;title=Other%20People%20Matter:%20The%20Power%20of%20Positive%20Relationships" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1019,12 +1051,12 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://scottdonaldsonphd.netlify.app/"><img class="avatar mr-3 avatar-circle" src="/author/scott-i.-donaldson/avatar_hub3998c42099d8849aceba3a01282a4e7_53599_270x270_fill_q75_lanczos_center.jpg" alt="Scott I. Donaldson"></a>
+      <a href="www.scottdonaldsonphd.com/"><img class="avatar mr-3 avatar-circle" src="/www.scottdonaldsonphd.com/author/dr.-scott-i.-donaldson/avatar_hub3998c42099d8849aceba3a01282a4e7_53599_270x270_fill_q75_lanczos_center.jpg" alt="Dr. Scott I. Donaldson"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://scottdonaldsonphd.netlify.app/">Scott I. Donaldson</a></h5>
-      <h6 class="card-subtitle">Postdoctoral Scholar in Evaluation, Statistics, and Measurement</h6>
+      <h5 class="card-title"><a href="www.scottdonaldsonphd.com/">Dr. Scott I. Donaldson</a></h5>
+      <h6 class="card-subtitle">Senior Research Scientist</h6>
       
       <ul class="network-icon" aria-hidden="true">
   
@@ -1040,7 +1072,7 @@
       
     
     <li>
-      <a href="/#contact" >
+      <a href="/www.scottdonaldsonphd.com/#contact" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1116,23 +1148,6 @@
 
 
   
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/jpp/">Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</a></li>
-      
-      <li><a href="/publication/evalsci/">Evaluating Scientific Progress in Positive Psychology</a></li>
-      
-      <li><a href="/publication/diss/"> Evaluating Employee Positive Functioning and Performance: A Positive Work and Organizations Approach</a></li>
-      
-      <li><a href="/publication/td.ppis/">The Effectiveness of Positive Psychology Interventions in the Workplace: A Theory-Driven Evaluation Approach</a></li>
-      
-      <li><a href="/publication/relationship/">Applying Positive Psychology to Advance Relationship Science</a></li>
-      
-    </ul>
-  </div>
   
 
 
@@ -1251,7 +1266,7 @@
     
     
     <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const search_config = {"indexURI":"/www.scottdonaldsonphd.com/index.json","minLength":1,"threshold":0.3};
       const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
@@ -1314,7 +1329,7 @@
       
     
     
-    <script src="/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
+    <script src="/www.scottdonaldsonphd.com/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
 
     
   <script async defer src="https://buttons.github.io/buttons.js"></script>

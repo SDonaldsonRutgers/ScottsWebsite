@@ -1,5 +1,5 @@
 ---
-title: Tobacco-Use Prevention Education
+title: Evaluation of the Tobacco-Use Prevention Education Program
 
 summary: Development of a Continuous Quality Improvement Process for a Statewide Youth Tobacco Education Program
 

@@ -27,17 +27,17 @@
   
   
 
-  <meta name="author" content="Scott I. Donaldson">
+  <meta name="author" content="Dr. Scott I. Donaldson">
 
   
   
   
     
   
-  <meta name="description" content="Postdoctoral Scholar in Evaluation, Statistics, and Measurement">
+  <meta name="description" content="Senior Research Scientist">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://scottdonaldsonphd.netlify.app/tag/forthcoming/">
+  <link rel="alternate" hreflang="en-us" href="www.scottdonaldsonphd.com/tag/forthcoming/">
 
   
 
@@ -241,30 +241,68 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.12f1d8b202e358020354902218c3db1b.css">
+  <link rel="stylesheet" href="/www.scottdonaldsonphd.com/css/wowchemy.12f1d8b202e358020354902218c3db1b.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-66J1CSNLDK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-66J1CSNLDK', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
 
   
 
+  
+
 
   
   
 
   
-  <link rel="alternate" href="/tag/forthcoming/index.xml" type="application/rss+xml" title="Scott I. Donaldson, PhD">
+  <link rel="alternate" href="www.scottdonaldsonphd.com/tag/forthcoming/index.xml" type="application/rss+xml" title="Scott I. Donaldson, PhD">
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/www.scottdonaldsonphd.com/index.webmanifest">
+  <link rel="icon" type="image/png" href="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://scottdonaldsonphd.netlify.app/tag/forthcoming/">
+  <link rel="canonical" href="www.scottdonaldsonphd.com/tag/forthcoming/">
 
   
   
@@ -280,12 +318,12 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Scott I. Donaldson, PhD">
-  <meta property="og:url" content="https://scottdonaldsonphd.netlify.app/tag/forthcoming/">
+  <meta property="og:url" content="www.scottdonaldsonphd.com/tag/forthcoming/">
   <meta property="og:title" content="Forthcoming | Scott I. Donaldson, PhD">
-  <meta property="og:description" content="Postdoctoral Scholar in Evaluation, Statistics, and Measurement"><meta property="og:image" content="https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://scottdonaldsonphd.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Senior Research Scientist"><meta property="og:image" content="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-01-01T00:00:00&#43;00:00">
+    
   
 
   
@@ -317,7 +355,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.25bb65fc185bceea61395d5b0560127a.js"></script>
+  <script src="/www.scottdonaldsonphd.com/js/wowchemy-init.min.25bb65fc185bceea61395d5b0560127a.js"></script>
 
   
 
@@ -375,7 +413,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Scott I. Donaldson, PhD</a>
+      <a class="navbar-brand" href="/www.scottdonaldsonphd.com/">Scott I. Donaldson, PhD</a>
     </div>
     
 
@@ -388,7 +426,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Scott I. Donaldson, PhD</a>
+      <a class="navbar-brand" href="/www.scottdonaldsonphd.com/">Scott I. Donaldson, PhD</a>
     </div>
     
 
@@ -431,7 +469,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#featured"><span>Publications</span></a>
         </li>
 
         
@@ -468,7 +506,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#experience"><span>Experience</span></a>
         </li>
 
         
@@ -505,7 +543,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#research"><span>Research & Projects</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#research"><span>Research & Projects</span></a>
         </li>
 
         
@@ -542,7 +580,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#accomplishments"><span>Teaching</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#accomplishments"><span>Teaching</span></a>
         </li>
 
         
@@ -579,7 +617,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -609,7 +647,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/media/resume.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/www.scottdonaldsonphd.com/media/resume.pdf"><span>CV</span></a>
         </li>
 
         
@@ -688,19 +726,7 @@
     
     
     <div>
-      <h2><a href="/publication/irt/" >A Brief Measure of Problematic Smartphone Use Among Youth: Psychometric Assessment Using Item Response Theory</a></h2>
-      <div class="article-style">
-        
-          The purpose of this study was to use item response theory to assess a brief measure of problematic smartphone use among youth, using the 2017-2018 California Student Tobacco Survey (CSTS) collected from 119,981 students who own a smartphone across …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/imposter/" >Addressing the Elephant in the Room: Exploring the Impostor Phenomenon in Evaluation</a></h2>
+      <h2><a href="www.scottdonaldsonphd.com/publication/imposter/" >Addressing the Elephant in the Room: Exploring the Impostor Phenomenon in Evaluation</a></h2>
       <div class="article-style">
         
           The impostor phenomenon (IP) is a psychological construct that refers to a range of negative emotions associated with a person’s perceived fraudulent competence in a field, or with the skills necessary to be successful with his or her trade. …
@@ -712,7 +738,7 @@
     
     
     <div>
-      <h2><a href="/publication/mtmm/" >Understanding Self-Report Bias in Workplace Research: Insights from Multitrait-Multimethod Analyses with Positive Work and Organizations Constructs</a></h2>
+      <h2><a href="www.scottdonaldsonphd.com/publication/mtmm/" >Examining PERMA&#43;4 and Work Role Performance beyond Self-Report Bias: Insights from Multitrait-Multimethod Analyses</a></h2>
       <div class="article-style">
         
           Self-report and monomethod bias threaten the validity of contemporary workplace research. The current study used multitrait-multimethod analyses to examine the relationship between positive work and organizations constructs PERMA+4 and work role …
@@ -834,7 +860,7 @@
     
     
     <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const search_config = {"indexURI":"/www.scottdonaldsonphd.com/index.json","minLength":1,"threshold":0.3};
       const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
@@ -897,7 +923,7 @@
       
     
     
-    <script src="/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
+    <script src="/www.scottdonaldsonphd.com/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
 
     
   <script async defer src="https://buttons.github.io/buttons.js"></script>
