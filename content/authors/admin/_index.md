@@ -11,7 +11,7 @@ education:
     year: 2019
 
     
-  - course: MS in Organizational Psychology
+  - course: MS in Applied Psychology
     institution: University of Southern California
     year: 2015
     
@@ -23,10 +23,9 @@ email: 'scottdon@usc.edu'
 highlight_name: yes
 interests:
 - Evaluation Science
-- Statistics
 - Measurement
-- Positive Interventions
-- Public Health Science
+- Well-Being
+- Health
 organizations:
 - name: University of Southern California
   url: https://preventivemedicine.usc.edu/divisions/health-behavior-research/
@@ -49,6 +48,6 @@ social:
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is a Senior Research Scientist in the Department of Population and Public Health Sciences at the Keck School of Medicine of USC. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, and received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods and a co-concentration in Positive Organizational Psychology from Claremont Graduate University. He received an MS in Organizational Psychology from the University of Southern California, and a BA in Psychology from the University of California, Los Angeles.
+SCOTT I. DONALDSON is a Senior Researcher in the Department of Population and Public Health Sciences at the Keck School of Medicine of USC. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, and received his PhD in Psychology with a concentration in Evaluation and Applied Research Methods from Claremont Graduate University. He received an MS in Applied Psychology from the University of Southern California, and a BA in Psychology from the University of California, Los Angeles.
 
-His research uses quantitative methodologies, such as psychometric evaluation, meta-analysis, multitrait-multimethod analyses, and quantitative text analytics to research the intersection of public health, data science, and positive organizational psychology. He currently works in the [USC Social Media Analytics Lab](https://somalab.usc.edu/) on a multi-year monitoring and evaluation grant funded by the California Department of Public Health in addition to other grants funded by the Regents of California.
+His research uses quantitative methodologies, such as psychometric evaluation, meta-analysis, multitrait-multimethod analyses, and quantitative text analytics to research the intersection of health, data science, and well-being. He currently works in the [USC Social Media Analytics Lab](https://somalab.usc.edu/) on a multi-year monitoring and evaluation grant funded by the California Department of Public Health in addition to other grants funded by the Regents of California.
