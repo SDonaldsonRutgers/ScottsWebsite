@@ -52,4 +52,4 @@ SCOTT I. DONALDSON is a Senior Researcher in the Department of Population and Pu
 
 His research uses quantitative methodologies, such as psychometric evaluation, meta-analysis, multitrait-multimethod analyses, and quantitative text analytics to research the intersection of health, data science, and well-being. He currently works in the [USC Social Media Analytics Lab](https://somalab.usc.edu/) on a multi-year monitoring and evaluation grant funded by the California Department of Public Health in addition to other grants funded by the Regents of California.
 
-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
+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
