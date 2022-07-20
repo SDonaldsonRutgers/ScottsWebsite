@@ -8,7 +8,7 @@ summary: This Psychology Today articles features Scott's recent work on positive
 projects: []
 
 # Date published
-date: "2022-03-17T00:00:00Z"
+date: "2022-07-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
