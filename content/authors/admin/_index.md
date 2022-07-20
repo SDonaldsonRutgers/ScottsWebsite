@@ -24,8 +24,8 @@ highlight_name: yes
 interests:
 - Evaluation Science
 - Measurement
-- Well-Being
-- Health
+- Health & Well-Being
+- Social Media
 organizations:
 - name: University of Southern California
   url: https://preventivemedicine.usc.edu/divisions/health-behavior-research/
