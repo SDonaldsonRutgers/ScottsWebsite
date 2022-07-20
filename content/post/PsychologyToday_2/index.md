@@ -1,14 +1,14 @@
 ---
-title: Which Well-Being Approaches Work Best?
+title: Can We Rediscover Our Identity at Work?
 
 # Summary for listings and search engines
-summary: This Psychology Today articles features Scott's meta-analytic work on positive psychology interventions.
+summary: This Psychology Today articles features Scott's recent work on positive psychology interventions.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2022-07-07T00:00:00Z"
+date: "2022-03-17T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,6 +23,6 @@ links:
 - icon: briefcase
   icon_pack: fa
   name: Link to Article
-  url: "https://www.psychologytoday.com/us/blog/functioning-flourishing/202207/which-well-being-approaches-work-best"
+  url: "https://www.psychologytoday.com/us/blog/tracking-wonder/202203/can-we-rediscover-our-identity-work"
 
 ---
