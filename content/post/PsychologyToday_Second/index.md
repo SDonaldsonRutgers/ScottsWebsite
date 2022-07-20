@@ -23,6 +23,6 @@ links:
 - icon: briefcase
   icon_pack: fa
   name: Link to Article
-  url: "https://www.psychologytoday.com/us/blog/tracking-wonder/202203/can-we-rediscover-our-identity-work"
+  url: ""
 
 ---
