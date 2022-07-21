@@ -31,7 +31,7 @@ experience:
     description: '![](/img/USC.png)'
   
   - title: Principles in Biostatistics (Instructor)
-    company: University of Southern California, Keck School of Medicine, Master in Public Health Program
+    company: University of Southern California, Keck School of Medicine
     company_url: 'https://preventivemedicine.usc.edu/divisions/health-behavior-research/'
     location: California
     date_start: '2022-05-03'
