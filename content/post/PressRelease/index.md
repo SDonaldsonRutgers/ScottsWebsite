@@ -2,7 +2,7 @@
 title: Largest ever study of tobacco content on social media links exposure to tobacco use
 
 # Summary for listings and search engines
-summary: The Keck School of Medicine of USC recently featured a press release of Scott's meta-analysis published JAMA Pediatrics.
+summary: The Keck School of Medicine of USC recently featured a press release of Scott's meta-analysis published in JAMA Pediatrics.
 
 # Link this post with a project
 projects: []

@@ -35,5 +35,5 @@ featured: true
 
 
 url_code: 'https://github.com/JonAllem/SocialMediaMetaAnalysis'
-doi: 
+
 ---
