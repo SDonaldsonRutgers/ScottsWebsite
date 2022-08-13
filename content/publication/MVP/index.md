@@ -26,7 +26,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Addictive Behaviors*
 
-tags: ["Featured"]
+tags: ["Recent"]
 
 abstract: Product placement in music videos is a growing promotional strategy. This study examined the impact of e-cigarette product placement and imagery in music videos on susceptibility to use e-cigarettes among young adults.
 

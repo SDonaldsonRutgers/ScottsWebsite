@@ -24,7 +24,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Positive Psychology*
 
-tags: ["Recent"]
+tags: [""]
 
 abstract: Recent debates in the Journal of Positive Psychology about the nature and usefulness of PERMA have created confusion about its contribution toward the understanding and prediction of well-being. This empirical study was designed to clarify several issues that have emerged in these recent articles. Using a multi-trait multi-method (MTMM) research design with 220 knowledable co-worker pairs (N = 440), it was found that the 5 PERMA building blocks of well-being (positive emotions, engagement, relationships, meaning, and accomplishment) and 4 additional potential building blocks of well-being (physical health, mindset, environment, and economic security) significantly predicted SWB above and beyond self-report and mono-method bias. This is one of the first empirical studies to test the PERMA building blocks of well-being beyond the sole use of self-reports, and illustrates that the building blocks can be strong predictors of well-being in some populations.
 

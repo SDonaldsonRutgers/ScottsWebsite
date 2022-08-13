@@ -24,7 +24,7 @@ publication_types: ["6"]
 # Publication name and optional abbreviated publication name.
 publication: In *Positive Organizational Psychology Interventions - Design & Evaluation*
 
-tags: ["Recent"]
+tags: [""]
 
 
 abstract: Positive Organizational Psychology Intervention - Design and Evaluation delivers a concise description and synthesis of positive organizational psychology theory, empirical research, and evidence-based applications. Based on a thorough review of the peer-reviewed literature by the accomplished and distinguished editors, the book offers readers an encapsulation of the growth of the field and the latest state-of-the-art theory and research-driven interventions in this emerging area.
