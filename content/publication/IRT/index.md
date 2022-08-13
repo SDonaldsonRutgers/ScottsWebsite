@@ -22,7 +22,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: Computers in Human Behavior Reports
 
-tags: [""] 
+tags: ["Publication"] 
 
 
 abstract: The purpose of this study was to use item response theory to assess a brief measure of problematic smartphone use among youth, using the 2017-2018 California Student Tobacco Survey (CSTS) collected from 119,981 students who own a smartphone across 256 high schools in California. 

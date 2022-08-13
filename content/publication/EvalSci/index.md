@@ -23,7 +23,7 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: Scientific Advances in Positive Psychology
-tags: ["Referred"]
+tags: ["Publication"]
 
 abstract:
 
