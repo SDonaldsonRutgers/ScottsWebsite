@@ -10,7 +10,7 @@ weight: 45
 # This file represents a page section.
 headless: true
 
-title: Current Projects
+title: Projects
 subtitle: ''
 
 content:

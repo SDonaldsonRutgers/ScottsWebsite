@@ -5,7 +5,7 @@
     <link>www.scottdonaldsonphd.com/project/</link>
       <atom:link href="www.scottdonaldsonphd.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Scott Donaldson, 2023</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/www.scottdonaldsonphd.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -27,6 +27,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>www.scottdonaldsonphd.com/project/internal-project/</guid>
       <description>&lt;p&gt;As a Post-Doctoral Scholar at the University of California, San Diego School of Medicine, I advanced my transdisciplinary research interests in evaluation, statistics, and measurement by designing a grant electronic monitoring and evaluation software system for a statewide behavioral health intervention in California. Under the supervision of world-renowned Chinese scientist Shu-Hong Zhu, I conducted a comprehensive theory-driven evaluation of an evidence-based education program with $60 million in allocated funds from the California Department of Education. Our real-time monitoring, evaluation, and technical assistance approach integrated continuous quality improvement to help design, measure, and evaluate the impact of a multi-tiered socioecological prevention program.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tobacco Industry Monitoring Evaluation</title>
+      <link>www.scottdonaldsonphd.com/project/time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>www.scottdonaldsonphd.com/project/time/</guid>
+      <description>&lt;p&gt;The main goal of the project is to inform comprehensive tobacco control policy efforts by monitoring core tobacco industry practices related to electronic cigarettes and other new and emerging non-combustible nicotine products, and little cigars and cigarillos in three core tobacco industry practices: advertising and marketing on social media platforms, direct marketing, and underage online sales.&lt;/p&gt;
 </description>
     </item>
     
