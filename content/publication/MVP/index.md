@@ -34,6 +34,6 @@ abstract: Product placement in music videos is a growing promotional strategy. T
 featured: true
 
 
-url_code: 
+doi: "https://www.sciencedirect.com/science/article/abs/pii/S0306460322000739" 
 
 ---
