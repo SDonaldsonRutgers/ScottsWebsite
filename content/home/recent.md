@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Select Publications
+title: Publications
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 8
+  count: 5
   # Choose how many pages you would like to offset by
   offset: 1
   # Page order: descending (desc) or ascending (asc) date.
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
 
@@ -39,6 +39,5 @@ design:
   
 ---
 
-{{% callout note %}} [See All Publications](./publication/). {{% /callout %}}
 
 # [Scott's Google Scholar](https://scholar.google.com/citations?user=ZkWaykcAAAAJ&hl=en) {{< icon name="google-scholar" pack="ai" >}}
