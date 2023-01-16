@@ -20,7 +20,7 @@ publishDate: "2022-01-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Addictive Behaviors Reports
+publication: Frontiers in Psychology
 
 tags: ["Publication"]
 
@@ -30,7 +30,7 @@ abstract: A growing body of empirical evidence suggests that positive emotions, 
 # Display this page in the Featured widget?
 featured: false
 
-url_code: ''
+doi: ""
 ---
 
 
