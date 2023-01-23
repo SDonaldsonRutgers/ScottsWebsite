@@ -24,18 +24,17 @@ publishDate: "2023-01-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Health Education & Behavior
+publication: Health Education and Behavior
 
 tags: ["Publication"]
 
-abstract: E-cigarette companies use YouTube to foster brand awareness, market their products, and interact with current and future tobacco users. However, research on the official YouTube channels of e-cigarette companies is limited. This study determined the themes of, and degree of user engagement with, videos posted to the official channels of e-cigarette companies
-on YouTube.
+abstract: E-cigarette companies use YouTube to foster brand awareness, market their products, and interact with current and future tobacco users. However, research on the official YouTube channels of e-cigarette companies is limited. This study determined the themes of, and degree of user engagement with, videos posted to the official channels of e-cigarette companies on YouTube.
 
 
 # Display this page in the Featured widget?
 featured: false
 
-doi: 'https://journals-sagepub-com.libproxy1.usc.edu/home/heb'
+doi: "https://journals-sagepub-com.libproxy1.usc.edu/home/heb"
 ---
 
 
