@@ -34,7 +34,7 @@ abstract: Research is needed to understand the frequency of e-cigarette impressi
 # Display this page in the Featured widget?
 featured: false
 
-doi: 'https://www.sciencedirect.com/science/article/pii/S2352853222000396'
+doi: 'https://doi.org/10.1016/j.abrep.2022.100444'
 ---
 
 

@@ -29,7 +29,7 @@ abstract:
 # Display this page in the Featured widget?
 featured: true
 
-doi: 'https://jamanetwork-com.libproxy1.usc.edu/journals/jamapediatrics/fullarticle/2800547'
+doi: "10.1001/jamapediatrics.2022.4970"
 ---
 
 

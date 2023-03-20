@@ -33,7 +33,7 @@ abstract: Although the U.S. Food and Drug Administration (FDA) banned characteri
 # Display this page in the Featured widget?
 featured: false
 
-url_code: ''
+doi: "10.1093/ntr/ntac290"
 ---
 
 

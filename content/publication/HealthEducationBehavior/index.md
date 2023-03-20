@@ -34,7 +34,7 @@ abstract: E-cigarette companies use YouTube to foster brand awareness, market th
 # Display this page in the Featured widget?
 featured: false
 
-doi: "https://journals-sagepub-com.libproxy1.usc.edu/home/heb"
+doi: "https://doi.org/10.1177/10901981221148964"
 ---
 
 
