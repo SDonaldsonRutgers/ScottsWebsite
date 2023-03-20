@@ -31,7 +31,7 @@ abstract: A growing body of evidence suggests positive psychological capital (Ps
 # Display this page in the Featured widget?
 featured: false
 
-doi: 'https://link-springer-com.libproxy1.usc.edu/article/10.1007/s41042-021-00060-0'
+doi: "https://doi.org/10.1007/s41042-021-00060-0"
 ---
 
 

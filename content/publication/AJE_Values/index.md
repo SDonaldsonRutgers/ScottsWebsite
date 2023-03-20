@@ -31,7 +31,7 @@ abstract: Psychological theory suggests that evaluators’ individual values and
 # Display this page in the Featured widget?
 featured: false
 
-doi: 'https://journals.sagepub.com/doi/abs/10.1177/10982140211046537?journalCode=ajec'
+doi: 'https://doi.org/10.1177/10982140211046537'
 ---
 
 
