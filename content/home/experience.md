@@ -29,6 +29,14 @@ experience:
     date_start: '2021-05-03'
     date_end: ''
     description: '![](/img/USC.png)'
+    
+  - title: Adjunct Professor
+    company: University of Connecticut
+    company_url: 'https://rmme.education.uconn.edu/'
+    location: California
+    date_start: '2023-05-15'
+    date_end: ''
+    description: '![](/img/UCONN.png)'
         
   - title: Principles in Biostatistics (Instructor)
     company: Keck School of Medicine of USC
