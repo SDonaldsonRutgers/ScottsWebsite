@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Academic Experience
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -23,19 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Research Associate
-    company: University of Southern California, Keck School of Medicine
+    company: Keck School of Medicine of USC
     company_url: 'https://preventivemedicine.usc.edu/divisions/health-behavior-research/'
     location: California
     date_start: '2021-05-03'
     date_end: ''
     description: '![](/img/USC.png)'
-  
+        
   - title: Principles in Biostatistics (Instructor)
-    company: University of Southern California, Keck School of Medicine, Master's in Public Health Program
+    company: Keck School of Medicine of USC
     company_url: 'https://preventivemedicine.usc.edu/divisions/health-behavior-research/'
     location: California
     date_start: '2022-05-03'
-    date_end: ''
+    date_end: '2022-08-03'
     description: '![](/img/USC.png)'
     
   - title: Postdoctoral Scholar in Evaluation, Statistics, and Measurement
@@ -45,7 +45,7 @@ experience:
     date_start: '2019-09-04'
     date_end: '2021-05-03'
     description: '![](/img/UCSD.png)'
-  
+    
   - title: Adjunct Professor (Research Design and Methodology)
     company: University of San Diego, School of Leadership and Education Sciences
     company_url: 'https://www.sandiego.edu/soles/'
@@ -53,7 +53,7 @@ experience:
     date_start: '2020-01-25'
     date_end: '2021-05-02'
     description: '![](/img/usd.png)'
-
+    
   - title: Adjunct Professor (Statistics & Research Methods)
     company: Chapman University Crean College of Health and Behavioral Sciences
     company_url: 'https://www.chapman.edu/crean/academic-programs/undergraduate-programs/ba-psychology/index.aspx'
@@ -61,7 +61,7 @@ experience:
     date_start: '2018-08-24'
     date_end: '2019-05-15'
     description: '![](/img/chapman.png)'
-    
+
   - title: Adjunct Professor (Statistics & Research Methods)
     company: California State University, Los Angeles
     company_url: 'https://www.calstatela.edu/academic/psych'
@@ -109,9 +109,7 @@ experience:
     date_start: '2016-09-01'
     date_end: '2017-05-15'
     description: '![](/img/CGU.png)'
+
+
     
-
-  
 ---
-
-
