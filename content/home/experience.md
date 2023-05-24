@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: '![](/img/USC.png)'
     
-  - title: Adjunct Professor
+  - title: Adjunct Professor (Advanced Program Evaluation)
     company: University of Connecticut
     company_url: 'https://rmme.education.uconn.edu/'
     location: California
