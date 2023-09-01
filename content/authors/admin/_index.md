@@ -23,9 +23,10 @@ email: 'scottdon@usc.edu'
 highlight_name: yes
 interests:
 - Evaluation Science
-- Measurement
-- Health & Well-Being
-- Social Media
+- Surveillance 
+- Tobacco Marketing
+- Psychometrics
+- Well-Being Science
 organizations:
 - name: University of Southern California
   url: https://preventivemedicine.usc.edu/divisions/health-behavior-research/
@@ -48,6 +49,6 @@ social:
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is a Senior Researcher in the Department of Population and Public Health Sciences at the Keck School of Medicine of USC. Scott completed his Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, and completed his PhD in Evaluation and Applied Research Methods at Claremont Graduate University. He completed an MS in Applied Psychology at the University of Southern California, and completed a BA in Psychology at the University of California, Los Angeles.
+SCOTT I. DONALDSON is a Senior Researcher in the Department of Population and Public Health Sciences at the Keck School of Medicine of USC. Scott completed a Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, and completed a PhD in Evaluation and Applied Research Methods at Claremont Graduate University. He completed an MS in Applied Psychology at the University of Southern California, and completed a BA in Psychology at the University of California, Los Angeles.
 
-His research leverages quantitative methodologies, such as psychometrics, meta-analysis, multitrait-multimethod analyses, and other advanced statistical approaches to research the intersection of digital media and health & well-being. He currently works in the [USC Social Media Analytics Lab](https://somalab.usc.edu/) on a multi-year monitoring and evaluation grant funded by the California Department of Public Health in addition to other grants funded by the Regents of California.
+His research leverages quantitative methodologies, such as psychometrics, meta-analysis, data science, and other advanced statistical approaches to research the intersection of digital media and health. He currently works in the [USC Social Media Analytics Lab](https://somalab.usc.edu/) on a monitoring and evaluation grant funded by the California Department of Public Health in addition to other grants funded by the Regents of California.
