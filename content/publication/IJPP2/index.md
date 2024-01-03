@@ -31,7 +31,7 @@ abstract: A substantial body of empirical research has used the positive emotion
 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 url_doi: 'https://doi.org/10.1007/s41042-023-00110-9'
 url_code: 'https://github.com/SDonaldsonUSC/PERMA4_IRT'

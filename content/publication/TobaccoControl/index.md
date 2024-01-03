@@ -33,10 +33,8 @@ tags: ["Featured"]
 
 abstract: Electronic cigarette (e-cigarette) brands and vendors use websites to promote pro-tobacco messages that may increase susceptibility to use e-cigarettes among never users or help sustain continued e-cigarette use among current users. E-cigarette website marketing is lightly regulated, and little is known about promotional strategies used on e-cigarette companies’ websites. This study conducted a content analysis of website marketing from leading e-cigarette companies selling products in California.
 
-
-
 # Display this page in the Featured widget?
-featured: True
+featured: false
 
 url_doi: 'doi: 10.1136/tc-2023-058000'
 
