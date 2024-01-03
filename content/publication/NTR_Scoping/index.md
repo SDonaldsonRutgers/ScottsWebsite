@@ -1,5 +1,5 @@
 ---
-title: "Examining tobacco-related social media research in government policy documents: systematic review"
+title: "Examining tobacco-related social media research in government policy documents - systematic review"
 
 # Authors
 authors:
