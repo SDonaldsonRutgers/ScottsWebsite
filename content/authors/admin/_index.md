@@ -19,7 +19,7 @@ education:
     institution: University of California, Los Angeles
     year: 2014
     
-email: 'scottdon@usc.edu'
+email: 'scott.donaldson@rutgers.edu'
 highlight_name: yes
 interests:
 - Evaluation Science
@@ -28,10 +28,10 @@ interests:
 - Psychometrics
 - Well-Being Science
 organizations:
-- name: University of Southern California
-  url: https://preventivemedicine.usc.edu/divisions/health-behavior-research/
+- name: Rutgers Robert Wood Johnson Medical School
+  url: https://rwjms.rutgers.edu/
 
-role: Senior Research Associate
+role: Assistant Professor of General Internal Medicine
 
 social:
 - icon: envelope
@@ -42,13 +42,11 @@ social:
   link: https://scholar.google.com/citations?user=ZkWaykcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/SDonaldsonUCSD/R-Code-Repository.git
+  link: https://github.com/SDonaldsonRutgers
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/scott-donaldson-ph-d-a031999b/
+  link: https://www.linkedin.com/in/scott-donaldson-a031999b/
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is a Senior Researcher in the Department of Population and Public Health Sciences at the Keck School of Medicine of USC. Scott completed a Postdoctoral Scholarship in Evaluation, Statistics, and Measurement at the University of California, San Diego School of Medicine, and completed a PhD in Evaluation and Applied Research Methods at Claremont Graduate University. He completed an MS in Applied Psychology at the University of Southern California, and completed a BA in Psychology at the University of California, Los Angeles.
-
-His research leverages quantitative methodologies, such as psychometrics, meta-analysis, data science, and other advanced statistical approaches to research the intersection of digital media and health. He currently works in the [USC Social Media Analytics Lab](https://somalab.usc.edu/) on a monitoring and evaluation grant funded by the California Department of Public Health in addition to other grants funded by the Regents of California.
+SCOTT I. DONALDSON is an Assistant Professor of General Internal Medicine in the Department of Population and Public Health Sciences at the Robert Wood Johnson Medical School, and a core faculty member of the Rutgers Institute for Nicotine & Tobacco Studies at Rutgers, the State University ("Rutgers"). His research leverages quantitative methodologies, such as psychometrics, meta-analysis, data science, and other advanced statistical approaches to research the intersection of digital media and health. He has published in top journals like JAMA Pediatrics, JAMA Network Open, and Tobacco Control. Additionally, his research at the intersection of tobacco control and social media has garnered national media attention from news and policy outlets, such as the U.S. News & World Report, NBC Los Angeles, and the World & Health Organization.
