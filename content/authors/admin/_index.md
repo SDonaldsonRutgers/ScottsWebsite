@@ -22,11 +22,11 @@ education:
 email: 'scott.donaldson@rutgers.edu'
 highlight_name: yes
 interests:
-- Evaluation Science
+- Evaluation 
 - Surveillance 
-- Tobacco Marketing
-- Psychometrics
-- Well-Being Science
+- Measurement
+- Tobacco
+- Health & Well-Being
 organizations:
 - name: Rutgers Robert Wood Johnson Medical School
   url: https://rwjms.rutgers.edu/
@@ -49,4 +49,4 @@ social:
 superuser: yes
 ---
 
-SCOTT I. DONALDSON is an Assistant Professor of General Internal Medicine in the Department of Population and Public Health Sciences at the Robert Wood Johnson Medical School, and a core faculty member of the Rutgers Institute for Nicotine & Tobacco Studies at Rutgers, the State University ("Rutgers"). His research leverages quantitative methodologies, such as psychometrics, meta-analysis, data science, and other advanced statistical approaches to research the intersection of digital media and health. He has published in top journals like JAMA Pediatrics, JAMA Network Open, and Tobacco Control. Additionally, his research at the intersection of tobacco control and social media has garnered national media attention from news and policy outlets, such as the U.S. News & World Report, NBC Los Angeles, and the World & Health Organization.
+SCOTT I. DONALDSON is an Assistant Professor of General Internal Medicine in the Robert Wood Johnson Medical School, and a core faculty member of the Rutgers Institute for Nicotine & Tobacco Studies at Rutgers, the State University ("Rutgers"). His research leverages quantitative methodologies, such as psychometrics, meta-analysis, and advanced statistical approaches to research the intersection of digital media and health. He has published in top journals like JAMA Pediatrics, JAMA Network Open, and Tobacco Control. Scott's research has garnered national media attention from news and policy outlets, such as the U.S. News & World Report, NBC Los Angeles, and the World & Health Organization.
