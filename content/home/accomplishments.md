@@ -29,24 +29,4 @@ item:
   url: 
 ---
 
-# [Scott's Rate My Professor](https://urldefense.com/v3/__https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2421138__;!!LLK065n_VXAQ!xHSYDWGPPZaJe7yKe3SHzm4HWZ1iavWpXAYSOvDB6Y-DXTUfFPCjgLcPWV4O0qexFq07$) {{< icon name="user-tie" pack="fa" >}}
 
-**Research Design and Methodology -** *Teaching Evaluations*
-
-> {{% staticref "media/Spring17.pdf" "newtab" %}} Spring 2017 - CSULA {{% /staticref %}}
->
-> {{% staticref "media/MethodsEval.pdf" "newtab" %}} Fall 2018 - Chapman University {{% /staticref %}}
->
-> {{% staticref "media/Methods.Fall19.pdf" "newtab" %}} Fall 2019 - Chapman University {{% /staticref %}}
->
-> {{% staticref "media/Methods.Spring21.pdf" "newtab" %}} Spring 2021 - University of San Diego {{% /staticref %}}
-
-**Statistics -** *Teaching Evaluations*
-
-> {{% staticref "media/StatsFall2017.pdf" "newtab" %}} Fall 2017 - CSULA {{% /staticref %}}
->
-> {{% staticref "media/StatsFall18.pdf" "newtab" %}} Fall 2018 - Chapman University {{% /staticref %}}
->
-> {{% staticref "media/StatsInterterm19.pdf" "newtab" %}} Interterm 2019 - Chapman University {{% /staticref %}}
->
-> {{% staticref "media/StatsSpring19.pdf" "newtab" %}} Spring 2019 - Chapman University {{% /staticref %}}
