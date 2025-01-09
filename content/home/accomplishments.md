@@ -29,7 +29,7 @@ item:
   url: 
 ---
 
-# [Scott's Rate My Professor](https://www.ratemyprofessors.com/professor/2421138) {{< icon name="user-tie" pack="fa" >}}
+# [Scott's Rate My Professor]() {{< icon name="user-tie" pack="fa" >}}
 
 **Research Design and Methodology -** *Teaching Evaluations*
 
