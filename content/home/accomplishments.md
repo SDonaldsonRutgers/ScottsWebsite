@@ -29,8 +29,6 @@ item:
   url: 
 ---
 
-# [Scott's Rate My Professor] {{< icon name="user-tie" pack="fa" >}}
-
 **Research Design and Methodology -** *Teaching Evaluations*
 
 > {{% staticref "media/Spring17.pdf" "newtab" %}} Spring 2017 - CSULA {{% /staticref %}}
