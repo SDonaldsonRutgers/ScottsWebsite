@@ -29,7 +29,7 @@ item:
   url: 
 ---
 
-# [Scott's Rate My Professor](https://urldefense.com/v3/__https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2421138__;!!LLK065n_VXAQ!xHSYDWGPPZaJe7yKe3SHzm4HWZ1iavWpXAYSOvDB6Y-DXTUfFPCjgLcPWV4O0qexFq07$) {{< icon name="user-tie" pack="fa" >}}
+# [Scott's Rate My Professor](https://www.ratemyprofessors.com/professor/2421138) {{< icon name="user-tie" pack="fa" >}}
 
 **Research Design and Methodology -** *Teaching Evaluations*
 
